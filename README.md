@@ -1,0 +1,1 @@
+# fis-camel-spring-boot-openshift
